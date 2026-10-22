@@ -1,14 +1,15 @@
 # Muhammed Anees
-### I'm not really great at writing introductions, so I asked ChatGPT to help me out.
+### Sorry I'm not really great at writing introductions, so I asked ChatGPT to help me out 😎.
 
+Hey there! 👋
 
----
+I'm Anees, a developer who enjoys building things, solving problems, and turning ideas into working applications.
 
-## About
-I explore backend systems and web applications through hands-on projects. My work includes a containerized healthcare microservices project and experiments with service communication 
+- 💻 I work with **JavaScript, TypeScript, React, and Node.js**.
+- ⚙️ I've worked with **microservices, REST APIs, and event-driven architecture**.
+- 🐳 I've worked with **Docker, Kubernetes, CI/CD, and application monitoring**.
+- 🧩 I enjoy exploring how things work behind the scenes and finding better ways to build software.
 
-## Technologies explored
-TypeScript · Node.js · Express · NestJS · MongoDB · Redis · RabbitMQ · Docker · GitHub Actions
+Always happy to connect with fellow developers, share ideas, and collaborate on interesting projects.
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/muhammad-anees-a27262249)
+Thanks for stopping by! Feel free to explore my repositories. 😊
