@@ -12,4 +12,4 @@ I'm Anees, a developer who enjoys building things, solving problems, and turning
 
 Always happy to connect with fellow developers, share ideas, and collaborate on interesting projects.
 
-Thanks for stopping by! Feel free to explore my repositories. 😊
+Thanks for stopping by! Feel free to connect
